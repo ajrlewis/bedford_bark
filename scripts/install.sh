@@ -38,8 +38,8 @@ fi
 # fi;
 
 # Install dependencies
-pip install --upgrade pip;
-pip install -r requirements.txt;
+# pip install --upgrade pip;
+# pip install -r requirements.txt;
 
 # # Run migrations
 # bash scripts/migrate.sh init;
