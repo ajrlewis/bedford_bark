@@ -10,5 +10,5 @@
         "api/wsgi.py": {
             "maxDuration": 60
         }
-    },
+    }
 }
